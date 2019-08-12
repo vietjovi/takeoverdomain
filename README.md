@@ -1,7 +1,7 @@
 # takeoverdomain
 Takeoverdomain is a Subdomain Takeover tool written in Python
 
-*How To Use:
+*How To Use:*
 
 Usage: takeoverdomain.py [OPTIONS]
 
@@ -13,8 +13,8 @@ Usage: takeoverdomain.py [OPTIONS]
 	-t --set-timeout	Set a request timeout. Default value is 2 seconds
 
 Example:
-	python takeoverdomain.py --domain google.com
-  python takeoverdomain.py -D domains.txt
+  python takeoverdomain.py --domain google.com  
+  python takeoverdomain.py -D domains.txt   
   
 Ref:
 https://github.com/EdOverflow/can-i-take-over-xyz
