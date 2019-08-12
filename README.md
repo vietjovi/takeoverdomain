@@ -12,7 +12,7 @@ Usage: takeoverdomain.py [OPTIONS]
 	-o --set-output		Use this setting for save a file
 	-t --set-timeout	Set a request timeout. Default value is 2 seconds
 
-Example:
+Example:   
   python takeoverdomain.py --domain google.com  
   python takeoverdomain.py -D domains.txt   
   
